@@ -1,0 +1,66 @@
+nav{
+    margin-left: 65%;
+}
+h4{
+    
+    color:yellow;
+    background-color: rgb(228, 228, 181)
+}
+.one{
+    color: grey;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+h1{
+    margin-left: 2px;
+}
+h3{
+color: grey;
+margin-left: 5%;
+}
+#cl{
+    margin-bottom: 10%;
+    size: 20%;
+ }
+ .two{
+     color: black;
+     margin-left: 15%;
+ }
+ h5{
+     margin-left: 95px;
+    color:orange;
+ }
+ h2{
+    margin-left: 10%;
+     color: orange;
+ }
+#rrr{
+    margin-left: 15%;
+}
+#ttt{
+    margin-left: 90px;
+    color: black;
+}
+#fff{
+    color: black;
+    margin-left: 5%;
+}
+.three{
+    color: black;
+    margin-left: 15%;
+    font-family: 'Courgette', cursive;
+}
+.four{
+    margin-left: 20%;
+}
+.five{
+    color: black;
+}
+
+.bbb{
+    color: black;
+    background-color: white;
+}
+#kkk{
+    margin-left: 20%;
+}
